@@ -1,3 +1,3 @@
 # isMember
 
-Describes if the person is a member of the DAO
+Describes if the Person is a member of the DAO
